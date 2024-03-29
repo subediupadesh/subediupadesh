@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Material Science, Silesian University of Technology, 2026 (expected)
+* M.S. in Mechanical Design and Manufacturing, Tribhuvan University, 2022
+* B.S. in Mechanical Engineering, Tribhuvan University, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+<!-- * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
@@ -30,16 +30,16 @@ Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
 Skills
 ======
-* Skill 1
+<!-- * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -61,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+<!-- * Currently signed in to 43 different slack teams -->
